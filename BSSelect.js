@@ -1,5 +1,5 @@
 /**
- * @package	BSSelect v1.5.0
+ * @package	BSSelect v1.6.0
  * @author	Harshal Khairnar
  * @link	https://harshalkhairnar.com
  * Copyright 2022 HitraA Technologies
@@ -168,6 +168,6 @@
 			}
 		});
 	}
-	BSSelect.version = '1.5.0';
+	BSSelect.version = '1.6.0';
 	return BSSelect;
 }));
