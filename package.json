@@ -1,6 +1,6 @@
 {
   "name": "bsselect",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Bootstrap 5 select with search box in 3 different variants",
   "main": "BSSelect.js",
   "scripts": {

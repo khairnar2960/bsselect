@@ -19,12 +19,12 @@ Using BSSelect.js file
 Using jsDeliver CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@khairnar2960/bsselect@1.6.0/BSSelect.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@khairnar2960/bsselect@1.6.1/BSSelect.min.js"></script>
 ```
 Using unpkg CDN
 
 ```html
-<script src="https://unpkg.com/@khairnar2960/bsselect@1.6.0/BSSelect.min.js"></script>
+<script src="https://unpkg.com/@khairnar2960/bsselect@1.6.1/BSSelect.min.js"></script>
 ```
 
 ### Uses:
