@@ -1,11 +1,24 @@
 {
-  "name": "@khairnar2960/bsselect",
+  "name": "bsselect",
   "version": "1.6.0",
-  "description": "Bootstrap select with search option",
+  "description": "Bootstrap 5 select with search box in 3 different variants",
   "main": "BSSelect.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khairnar2960/bsselect.git"
+  },
+  "keywords": [
+    "search in select",
+    "bootstrap 5",
+    "bootstrap"
+  ],
   "author": "Harshal Khairnar",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khairnar2960/bsselect/issues"
+  },
+  "homepage": "https://github.com/khairnar2960/bsselect#readme"
 }
